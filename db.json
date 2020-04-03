@@ -1,0 +1,12 @@
+{
+  "directories": [
+      {"id": 1, "name": "3D_Models", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\3D_Models"}, 
+      {"id": 2, "name": "Assembly", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Assembly"}, 
+      {"id": 3, "name": "Erection", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Erection"}, 
+      {"id": 4, "name": "NCFiles", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\NCFiles"}, 
+      {"id": 5, "name": "Shop_Release", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Shop_Release"}, 
+      {"id": 6, "name": "Site_Release", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Site_Release"}, 
+      {"id": 7, "name": "Workshop", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Workshop"}, 
+      {"id": 8, "name": "QA_Assembly", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\QA_Assembly"} 
+  ]
+}
